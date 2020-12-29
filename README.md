@@ -1,6 +1,8 @@
-# Missing Homework Game
+# Game: Missing Homework
 
 A student named Kelsoe Kismet has misplaced his homework somewhere in his school. The player chooses the locations where Kelsoe will search until he arrives at the location of the homework.
+
+![alt text](missing-homework.png "Missing Homework Game")
 
 ## School places game logic:
 
